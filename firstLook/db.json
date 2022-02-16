@@ -10,7 +10,7 @@
       "id": 2,
       "text": "Meeting at School",
       "day": "April 1th at 4:20pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 3,
@@ -19,16 +19,16 @@
       "reminder": true
     },
     {
-      "id": 4,
-      "text": "Test task to delete",
-      "day": "Februar th at 3:05pm",
-      "reminder": false
-    },
-    {
       "text": "Do more programming",
       "day": "May 10 at 2:33pm",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Be better human",
+      "day": "Every day and every time",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
